@@ -1,2 +1,3 @@
-# python_calculator
-python calculator progrm
+# python 3.0+ basic programs
+#list
+>>calculator
