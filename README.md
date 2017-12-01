@@ -1,3 +1,2 @@
 # python 3.0+ basic programs
-#list
->>calculator
+THIS REPOSITORY CONTAINS BASIC PYTHON PROGRAM FOR BEGGINERS.
